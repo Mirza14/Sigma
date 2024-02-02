@@ -1,4 +1,4 @@
-SIgma
+Sigma
 
 GitHub Repo: https://github.com/SigmaHQ/sigma
 YAML Guide: https://www.tutorialspoint.com/yaml/yaml_quick_guide.htm
